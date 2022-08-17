@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!--    Requirement-->
+
+<!--    Suppose we want to set textView Size programmatically from a resource file.-->
+
+<!--    Dimension resource file (res/values/dimens.xml)-->
+     <dimen name="result_font">24sp</dimen>
+</resources>
